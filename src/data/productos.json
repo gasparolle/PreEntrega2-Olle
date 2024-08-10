@@ -1,0 +1,90 @@
+[{
+    "id": 1,
+    "categoria": "Camara",
+    "marca": "Nikon",
+    "modelo": "D7200",
+    "descripcion": "La Nikon D7200 es una cámara fotográfica DSLR profesional de 24,2 megapixeles con formato DX lanzada al mercado por Nikon el 2 de marzo de 2015",
+    "precio": 2000000,
+    "foto": "https://http2.mlstatic.com/D_844452-MLU72637258691_112023-C.jpg"
+
+  }, {
+    "id": 2,
+    "categoria": "Camara",
+    "marca": "Nikon",
+    "modelo": "D850",
+    "descripcion": "Con 153 puntos de enfoque, 99 sensores tipo cruz y un procesador de AF exclusivo, la D850 logra todo el rendimiento de 45.7 MP con los lentes NIKKOR. ",
+    "precio": 2724000,
+    "foto": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2017/09/124A81752.jpg"
+
+  }, {
+    "id": 3,
+    "categoria": "Camara",
+    "marca": "Nikon",
+    "modelo": "P1000",
+    "descripcion": "Alucinante zoom de 3000 mm. Video en 4K Ultra HD RAW (NRW), macro, intervalos y mucho más.",
+    "precio": 1500000,
+    "foto": "https://www.dpreview.com/files/p/articles/0991735089/Product-shots/NikonP1000-beauty02.jpeg"
+
+  }, {
+    "id": 4,
+    "categoria": "Camara",
+    "marca": "Canon",
+    "modelo": "EOS Rebel T7",
+    "descripcion": "La EOS Rebel T7 es la cámara ideal para quienes disfrutan capturar recuerdos en sus dispositivos móviles, pero buscan dar el siguiente paso y mejorar la calidad de imagen en sus fotografías.",
+    "precio": 2750000,
+    "foto": "https://m.media-amazon.com/images/I/71Is-Zv6A0L._AC_SL1500_.jpg"
+
+  }, {
+    "id": 5,
+    "categoria": "Camara",
+    "marca": "Canon",
+    "modelo": "EOS 5000",
+    "descripcion": "¡Excelente cámara, muy recomendada para principiantes! hace que puedas jugar con ella bastante. Su precio, es excelente para alguien que quiere iniciar con la aventura de la fotografía!",
+    "precio": 1830000,
+    "foto": "https://d22fxaf9t8d39k.cloudfront.net/77cd292bca4e4472e7d18f4295a266ec8b23b3f5123be1d545990efcce481d9a48629.jpg"
+
+  }, {
+    "id": 6,
+    "categoria": "Lentes",
+    "marca": "Nikon",
+    "modelo": "Nikkor 70-300",
+    "descripcion": "El AF-P NIKKOR 70-300mm f/4.5-5.6E ED VR es un lente avanzado que obtiene el máximo rendimiento de la última generación de cámaras con formato FX y DX de Nikon",
+    "precio": 2100000,
+    "foto": "https://m.media-amazon.com/images/I/51wLaGZb8tL._AC_SL1000_.jpg"
+    
+  }, {
+    "id": 7,
+    "categoria": "Lentes",
+    "marca": "Nikon",
+    "modelo": "50mm 1.8",
+    "descripcion": "El AF NIKKOR 50mm f/1.8D es tan versátil como compacto—perfecto para viajes, retratos y la fotografía en general. Su rápida apertura máxima f/1.8 crea un atractivo difuminado de fondo (bokeh) natural y permite magníficas tomas con poca luz.",
+    "precio": 1500000,
+    "foto": "https://vidicom.com.ar/wp-content/uploads/2021/07/Dise%C3%B1o-sin-t%C3%ADtulo-1-11.png"
+
+  }, {
+    "id": 8,
+   "categoria": "Lentes",
+    "marca": "Canon",
+    "modelo": "EF 17-40 mm",
+    "descripcion": "El objetivo EF 17-40 mm f/4L USM de Canon es un objetivo zoom EF ligero y ultra gran angular de Canon. ",
+    "precio": 1930000,
+    "foto": "https://i1.adis.ws/i/canon/5_canon_ef17-40mmf-4l_16821216655747ebbd8c74e0420b9875"
+
+  }, {
+    "id": 9,
+    "categoria": "Accesorios",
+    "marca": "Tripode Manfrotto",
+    "modelo": "MII Aluminio",
+    "descripcion": "Es una elección perfecta para los fotógrafos en movimiento que deseen aprender, experimentar y viajar en libertad.",
+    "precio": 350000,
+    "foto": "https://www.fotolandia.com.ar/tienda/583-Niara_thickbox/tripode-manfrotto-element-mii-aluminio.jpg"
+
+  }, {
+    "id": 10,
+    "categoria": "Accesorios",
+    "marca": "Nikon",
+    "modelo": "En El 14",
+    "descripcion": "La batería recargable de ion de litio EN-EL14a está diseñada para otorgar energía a ciertas cámaras Nikon.",
+    "precio": 150000,
+    "foto": "https://baomboe1.com.ar/wp-content/uploads/2019/08/cs-enel14.jpg"
+  }]

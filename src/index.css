@@ -1,0 +1,73 @@
+.contenedor{
+  background-color: rgb(47, 110, 172);
+}
+
+.bienvenidos{
+  text-align: center;
+}
+
+.containerCards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap:20px;
+}
+
+.card{
+  width: 18rem;
+}
+
+.fotoCard{
+  width: 100%;
+  height: 200px;
+  object-fit:contain;
+}
+
+.cargando{
+  display: flex;
+  justify-content: center;
+  color: blue;
+}
+
+.cardTitle{
+  font-size: 1.5rem;
+}
+
+.cardModelo{
+  font-size: 1.2rem;
+}
+
+.cardPrecio{
+  background-color: blue;
+  width: 100px;
+  text-align: center;
+  font-size: 1.2rem;
+  color: white;
+}
+
+.buttonDetalles{
+  background-color: black;
+}
+
+.details{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fotoDetails{
+  max-width: 500px;
+}
+
+.descripDetails{
+  width: 70%;
+}
+
+.precioDetails{
+  font-size: 1.2rem;
+  background-color: black;
+  color: white;
+  padding: 2px;
+}
